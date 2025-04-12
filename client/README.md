@@ -16,6 +16,7 @@ npm create vite@latest client
 npm i -D tailwindcss@3 postcss autoprefixer
 npm i -D tailwindcss@3 postcss autoprefixer
 npx tailwindcss init -p
+npm i react-router-dom
 
 
 
